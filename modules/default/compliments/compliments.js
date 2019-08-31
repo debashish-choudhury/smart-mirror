@@ -1,11 +1,4 @@
-/* global Log, Module, moment */
 
-/* Magic Mirror
- * Module: Compliments
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 Module.register("compliments", {
 
 	// Module config defaults.

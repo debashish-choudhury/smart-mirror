@@ -3,9 +3,7 @@
 
 /* Magic Mirror
  * Main System
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
+ * ~updated by Debashish Choudhury
  */
 
 var MM = (function() {

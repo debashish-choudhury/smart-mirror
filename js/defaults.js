@@ -1,11 +1,4 @@
-/* exported defaults */
 
-/* Magic Mirror
- * Config Defauls
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 var port = 8080;
 var address = "localhost";

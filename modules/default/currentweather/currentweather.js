@@ -1,11 +1,4 @@
-/* global Module */
 
-/* Magic Mirror
- * Module: CurrentWeather
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 Module.register("currentweather",{
 

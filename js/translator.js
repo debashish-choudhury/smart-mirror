@@ -1,10 +1,4 @@
-/* exported Translator */
-/* Magic Mirror
- * Translator (l10n)
- *
- * By Christopher Fenner http://github.com/CFenner
- * MIT Licensed.
- */
+
 var Translator = (function() {
 
 	/* loadJSON(file, callback)

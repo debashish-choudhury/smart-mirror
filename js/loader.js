@@ -1,10 +1,3 @@
-/* global config, vendor, MM, Log, Module */
-/* Magic Mirror
- * Module and File loaders.
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 var Loader = (function() {
 

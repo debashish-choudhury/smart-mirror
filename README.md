@@ -40,14 +40,6 @@ bash -c "$(curl -sL https://github.com/deb1398/smart-mirror.git)"
 4. Install and run the app with: `npm install && npm start` \
    For **Server Only** use: `npm install && node serveronly` .
 
-
-**:warning: Important!**
-
-- **The installation step for `npm install` will take a very long time**, often with little or no terminal response! \
-  For the RPi3 this is **~10** minutes and for the Rpi2 **~25** minutes. \
-  Do not interrupt or you risk getting a :broken_heart: by Raspberry Jam.
-
-
 **Important:** Make sure that you whitelist the interface/ip (`ipWhitelist`) in the server config where you want the client to connect to, otherwise it will not be allowed to connect to the server. You also need to set the local host `address` field to `0.0.0.0` in order for the RPi to listen on all interfaces and not only `localhost` (default).
 
 ```javascript

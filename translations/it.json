@@ -1,0 +1,32 @@
+{
+	"LOADING": "Caricamento in corso &hellip;",
+
+	"TODAY": "Oggi",
+	"TOMORROW": "Domani",
+	"DAYAFTERTOMORROW": "Dopodomani",
+	"RUNNING": "Termina entro",
+	"EMPTY": "Nessun evento imminente.",
+
+	"WEEK": "Settimana {weekNumber}",
+
+	"N": "N",
+	"NNE": "NNE",
+	"NE": "NE",
+	"ENE": "ENE",
+	"E": "E",
+	"ESE": "ESE",
+	"SE": "SE",
+	"SSE": "SSE",
+	"S": "S",
+	"SSW": "SSO",
+	"SW": "SO",
+	"WSW": "OSO",
+	"W": "O",
+	"WNW": "ONO",
+	"NW": "NO",
+	"NNW": "NNO",
+
+	"UPDATE_NOTIFICATION": "E' disponibile un aggiornamento di MagicMirror².",
+	"UPDATE_NOTIFICATION_MODULE": "E' disponibile un aggiornamento del modulo {MODULE_NAME}.",
+	"UPDATE_INFO": "L'installazione è {COMMIT_COUNT} indietro rispetto all'attuale branch {BRANCH_NAME}."
+}

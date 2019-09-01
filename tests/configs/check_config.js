@@ -1,13 +1,4 @@
-/* Magic Mirror
- *
- * Checker configuration file
- *
- * By Rodrigo Ramírez Norambuena
- *    https://rodrigoramirez.com
- *
- * MIT Licensed.
- *
- */
+
 
 var v = require("jshint");
 var path = require("path");

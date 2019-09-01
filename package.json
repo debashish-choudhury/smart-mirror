@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichMich/MagicMirror.git"
+    "url": "git+https://github.com/deb1398/smart-mirror.git"
   },
   "keywords": [
     "magic mirror",
@@ -26,9 +26,8 @@
   ],
   "author": "Michael Teeuw",
   "contributors": [
-    "https://github.com/MichMich/MagicMirror/graphs/contributors"
+    "https://github.com/deb1398/smart-mirror.git"
   ],
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MichMich/MagicMirror/issues"
   },

@@ -1,9 +1,3 @@
-/* Magic Mirror
- * Server
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 var express = require("express");
 var app = require("express")();

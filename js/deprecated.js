@@ -1,10 +1,4 @@
-/* Magic Mirror Deprecated Config Options List
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- *
- * Olex S. original idea this deprecated option
- */
+
 
 var deprecated = {
 	configs: ["kioskmode"],

@@ -1,9 +1,3 @@
-/* Magic Mirror
- * Fetcher
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 var FeedMe = require("feedme");
 var request = require("request");

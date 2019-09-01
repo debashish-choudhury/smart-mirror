@@ -1,15 +1,3 @@
-/* global console */
-/* exported Log */
-
-/* Magic Mirror
- * Logger
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
-
-// This logger is very simple, but needs to be extended.
-// This system can eventually be used to push the log messages to an external target.
 
 var Log = (function() {
 	return {

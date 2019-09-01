@@ -1,9 +1,4 @@
-/* Magic Mirror
- * Node Helper: Calendar - CalendarFetcher
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
+
 
 var ical = require("./vendor/ical.js");
 var moment = require("moment");

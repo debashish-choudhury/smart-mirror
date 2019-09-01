@@ -1,11 +1,3 @@
-/* global Module */
-
-/* Magic Mirror
- * Module: Calendar
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 Module.register("calendar", {
 

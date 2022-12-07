@@ -57,7 +57,7 @@
     "body-parser": "^1.18.2",
     "colors": "^1.1.2",
     "electron": "^2.0.0",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-ipfilter": "0.3.1",
     "feedme": "latest",
     "helmet": "^3.9.0",
